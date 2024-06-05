@@ -1,0 +1,18 @@
+#body {
+  background-color: #f8f9fc;
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+main {
+  flex: 1 0 auto;
+}
+
+nav {
+  background-color: #1c3559;
+}
+
+#con-1 {
+  background-color: #ffffff;
+}/*# sourceMappingURL=style.css.map */
